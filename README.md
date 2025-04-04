@@ -16,7 +16,7 @@ Sou desenvolvedor profissionalmente desde 2018, formado em Sistemas para interne
 ![GitHub followers](https://img.shields.io/github/followers/LuizRobertoReinoso?label=Followers&style=social)
 
 
-## 📫 Entre em Contato:
+## Contato:
 - [LinkedIn](https://www.linkedin.com/in/luiz-roberto-reinoso-758108119/)
 - reinosoluizroberto@gmail.com
 <!--
