@@ -1,6 +1,6 @@
 
 # Luiz Roberto Reinoso
-🎯 Desenvolvedor de software com experiência em sistemas de gestão e automação de processos financeiros e bancários. Apaixonado por criar soluções eficientes e compartilhar conhecimento de forma prática.
+Sou desenvolvedor profissionalmente desde 2018, formado em Sistemas para interenet pela Fatec. Já tive experiências com sistema de gestão e automação de processos fiscais, financeiros e bancários. Sou apaixonado por criar soluções eficientes e compartilhar conhecimento de forma prática.
 
 <!--### 🤝 Contribuições e Mentoria:
 - Organizei processos seletivos para desenvolvedores, com foco em passar conhecimentos práticos.-->
